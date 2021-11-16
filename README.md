@@ -20,8 +20,6 @@
 <a href="https://auth.geeksforgeeks.org/user/kaifcoder/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kaifcoder/profile" height="30" width="40" /></a>
 </p>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mohdkaif00" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mohdkaif00?trk=profile-badge">Mohd Kaif</a></div>
               
 
 <h3 align="left">Languages and Tools:</h3>
