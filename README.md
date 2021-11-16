@@ -1,3 +1,4 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h1 align="center">Hi 👋, I'm Mohd Kaif</h1>
 <h3 align="center">I am a developer , designer and youtuber</h3>
 
@@ -19,8 +20,8 @@
 <a href="https://www.youtube.com/c/dark kaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dark kaif" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kaifcoder/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kaifcoder/profile" height="30" width="40" /></a>
 </p>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mohd-kaif-580964157" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mohd-kaif-580964157?trk=profile-badge">Mohd Kaif</a></div>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mohdkaif00" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mohdkaif00?trk=profile-badge">Mohd Kaif</a></div>
               
 
 <h3 align="left">Languages and Tools:</h3>
