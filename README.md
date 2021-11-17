@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohd Kaif</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&color=%2302A700&size=29&lines=Hi...+This+is+Mohd+Kaif+)](https://git.io/typing-svg)</h1>
 <h3 align="center">I am a developer , designer and youtuber</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaifcoder&label=Profile%20views&color=0e75b6&style=flat" alt="kaifcoder" /> </p>
