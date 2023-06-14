@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&color=%2302A700&size=29&lines=Hi...+This+is+Mohd+Kaif+)](https://git.io/typing-svg)
-<h3 align="center">I am a developer , designer and youtuber</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaifcoder&label=Profile%20views&color=0e75b6&style=flat" alt="kaifcoder" /> </p>
 
@@ -7,16 +6,15 @@
 
 - 👨‍💻 All of my projects are available at [github.com/kaifcoder](github.com/kaifcoder)
 
-- 💬 Ask me about **python , arduino , c++ , html and css**
+- 💬 Ask me about **python , react , next  , c++ , html and css**
 
 - 📫 How to reach me **kaifmohd2014@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mohdkaif0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohdkaif0000" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohd-kaif-580964157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-kaif-580964157" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohdkaif00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-kaif" height="30" width="40" /></a>
 <a href="https://instagram.com/dark__kaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dark__kaif" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dark kaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dark kaif" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kaifcoder/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kaifcoder/profile" height="30" width="40" /></a>
 </p>
 
