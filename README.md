@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&color=%2302A700&size=28&lines=Hi...+This+is+Mohd+Kaif+)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="400" align="right">
