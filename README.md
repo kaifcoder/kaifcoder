@@ -32,6 +32,9 @@
 <a href="https://github.com/kaifcoder/the_wall">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaifcoder&repo=the_wall&theme=transparent" />
 </a>
+<a href="https://github.com/kaifcoder/learning-journey">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaifcoder&repo=learning-journey&theme=transparent" />
+</a>
 
 <hr/>
 
