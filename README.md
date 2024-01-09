@@ -35,6 +35,9 @@
 <a href="https://github.com/kaifcoder/learning-journey">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaifcoder&repo=learning-journey&theme=transparent" />
 </a>
+<a href="https://github.com/kaifcoder/gemini_multipdf_chat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaifcoder&repo=learning-journey&theme=transparent" />
+</a>
 
 <hr/>
 
