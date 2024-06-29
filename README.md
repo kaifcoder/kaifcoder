@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/kaifcoder](github.com/kaifcoder)
 
-- 💬 Ask me about **python , react , next  , c++ , html and css**
+- 💬 Ask me about **Flutter, NextJS, NodeJs, python, c++ and many more technogies**
 
 - 📫 How to reach me **kaifmohd2014@gmail.com**
 
