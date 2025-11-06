@@ -48,6 +48,13 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kaifcoder?theme=dark&font=Red%20Hat%20Display&ext=heatmap)
 
+---
+## Holopin wall - 
+
+[![An image of @kaifcoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaifcoder)](https://holopin.io/@kaifcoder)
+
+---
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kaifcoder&theme=transparent" />
 </a>
