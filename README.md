@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **Flutter, NextJS, NodeJs, python, c++ and many more technogies**
 
+- Resume - https://drive.google.com/file/d/1lkQN9aowj51WCCPEqSky8xUUHGSNdMyJ/view?usp=sharing
+
 - 📫 How to reach me **kaifmohd2014@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
