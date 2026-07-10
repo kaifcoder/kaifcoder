@@ -60,6 +60,7 @@ contact:   kaifmohd2014@gmail.com
 |:---:|:---|:---|
 | 🔮 | [**create-polyglot**](https://github.com/kaifcoder/create-polyglot) | CLI scaffolding tool for multilingual codebases |
 | 🤖 | [**ai-companion**](https://github.com/kaifcoder/ai-companion) | AI-powered conversational companion |
+| ⚡ | [**codevibe**](https://github.com/kaifcoder/codevibe) | Agentic AI coding platform for building Next.js apps |
 | 🧱 | [**the_wall**](https://github.com/kaifcoder/the_wall) | Creative full-stack social wall |
 | 📚 | [**gemini_multipdf_chat**](https://github.com/kaifcoder/gemini_multipdf_chat) | Chat across multiple PDFs with Gemini AI |
 | 📖 | [**learning-journey**](https://github.com/kaifcoder/learning-journey) | Public log of what I'm learning |
@@ -73,6 +74,9 @@ contact:   kaifmohd2014@gmail.com
 </a>
 <a href="https://github.com/kaifcoder/ai-companion">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaifcoder&repo=ai-companion&theme=github_dark&border_color=4c1d95&title_color=a78bfa&icon_color=818cf8&bg_color=0d1220" />
+</a>
+<a href="https://github.com/kaifcoder/codevibe">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaifcoder&repo=codevibe&theme=github_dark&border_color=4c1d95&title_color=a78bfa&icon_color=818cf8&bg_color=0d1220" />
 </a>
 <a href="https://github.com/kaifcoder/gemini_multipdf_chat">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaifcoder&repo=gemini_multipdf_chat&theme=github_dark&border_color=4c1d95&title_color=a78bfa&icon_color=818cf8&bg_color=0d1220" />
